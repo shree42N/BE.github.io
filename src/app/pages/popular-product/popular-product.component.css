@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+}
+.heading {
+    margin-left: 491px;
+    margin-bottom: 58px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.card{
+    border: 1px solid red;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+.card:hover{
+   
+    background-color:rgb(199, 199, 199);
+    border: 2px solid yellow;
+}
+
+.productName{
+    color: red;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+.productName:hover{
+color: white;
+}

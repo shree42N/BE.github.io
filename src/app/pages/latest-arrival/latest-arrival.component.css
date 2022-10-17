@@ -1,0 +1,112 @@
+.heading {
+    margin-left: 491px;
+    margin-bottom: 58px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.container {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.cardImg {
+    width: 250px;
+    height: 300px;
+    padding: 31px;
+    margin-left: 24px;
+}
+
+.card {
+    /* border: 1px solid grey; */
+    width: 300px;
+  
+}
+
+
+.description {
+    padding: 15px;
+}
+
+.productName {
+    color: gray;
+    font-weight: bold;
+    padding-left: 18px;
+    margin-top: -11px;
+}
+
+.price {
+    float: left;
+    margin-left: 24px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.totalPrice {
+    text-decoration: line-through;
+    margin-left: 14px;
+    color: grey;
+    font-weight: bold;
+}
+
+.percentageOff {
+
+    margin-left: 15px;
+    color: green;
+    font-weight: bolder;
+}
+.priceDetails{
+    margin-bottom: 30px;
+}
+.brandDetails{
+    background-color: rgb(235, 232, 232);
+    height: 200px;
+    margin-bottom: 20px;
+}
+.year{
+    width: 49px;
+    height: 50px;
+    margin-left: 397px;
+    margin-top: 71px;
+}
+.yExperience{
+    color: red;
+    font-weight: bold;
+    margin-left: 368px
+}
+.of{
+    margin-left: 41px;
+}
+.exp{
+   margin-left: 20px; 
+}
+.Innovation{
+    width: 49px;
+    height: 50px;
+    margin-left: 178px;
+    margin-top: 71px;  
+}
+.Customer{
+    color: red;
+    font-weight: bold;
+    margin-left: 139px
+}
+.Inspired{
+    margin-left: 26px;
+}
+.unrivalled{
+    color: red;
+    font-weight: bold; 
+    margin-left: 169px;
+}
+.trust{
+    margin-left: 22px;
+}
+.safety{
+    color: red;
+    font-weight: bold; 
+    margin-left: 147px;
+}
+.standards{
+    margin-left: 22px;
+}

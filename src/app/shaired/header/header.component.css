@@ -1,0 +1,77 @@
+.container
+{
+
+}
+
+.blackHead{
+    background-color: black;
+    height: 50px;
+}
+.number{
+    color: white;
+    float: left;
+    margin-left: 24px;
+}
+.language{
+    color: white;
+    float: right;
+    margin-right: 25px
+}
+.logo{
+    float: left;
+}
+.logoImg{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: -96px;
+    border-radius: 10px;
+}
+.menu{
+    float: right;
+    color: gray;
+    font-weight: bolder;
+    margin-right: -186px;
+
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+   
+   
+  }
+  
+ .menuTwo{
+    margin-left: 203px;
+    margin-top: 53px
+    
+  
+ }
+.menuBar{
+    clear: both;
+   
+}
+.navTopText{
+    color: gray;
+    font-weight: bolder;
+}
+.navBottomText{
+    /* color: gray; */
+    font-weight: bolder;
+    font-size: 18px;
+}

@@ -1,0 +1,29 @@
+.container{
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+.heading{
+    margin-left: 491px;
+    margin-bottom: 58px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.cardImg{
+    width: 250px;
+    height: 300px;
+    border-radius: 20px 20px 0 0;
+    padding: 15px;
+}
+.card{
+    padding: 17px;
+    border: none;
+}
+
+.exploreBtn{
+    margin-right: 30px;
+   
+    margin-top: 5px;
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
